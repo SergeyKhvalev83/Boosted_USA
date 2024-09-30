@@ -3,3 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+#root, body {
+  width: 100vw; /* 100% of the viewport width */
+  margin: 0; /* Remove margins to avoid offset */
+  padding: 0; /* Optional: to remove default padding */
+}
+
+.center {
+  max-width: 1440px;
+  margin: 0 auto;
+}

@@ -1,0 +1,20 @@
+.navigation-main {
+  width: 1420px;
+  height: 66.36px;
+}
+
+.navigation-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  width: 736.25px;
+  height: 66.36px;
+  left: 584.63px;
+  font-size: smaller;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
