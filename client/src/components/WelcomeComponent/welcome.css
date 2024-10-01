@@ -1,0 +1,44 @@
+.welcome-main-container {
+  display: flex;
+  justify-content: center;
+  height: 810px;
+  background-image: url("./Welcome-banner.jpg");
+  top: -0.36px;
+}
+
+.welcome-banner {
+  width: 635px;
+  height: 160px;
+  padding-top: 44.64px;
+  display: flex;
+  flex-direction: column;
+  align-content: normal;
+  align-items: center;
+}
+
+.welcome-text {
+  margin-top: 8px;
+  width: 511px;
+  height: 51px;
+  font-family: Roboto;
+  line-height: 50.63px;
+  font-size: 42px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.intro-text {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 18.75px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  width: 537px;
+  height: 19px;
+  text-align: center;
+}
+
+.welcome-banner-buttons{
+  display: flex;
+  gap: 10px;
+}
