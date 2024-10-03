@@ -1,0 +1,12 @@
+#electrek-brand-main-container{
+  display: flex;
+  justify-content: center;
+   width: 280px;
+  height: 31px;
+}
+
+.electrek-brand-container{
+  width: 150px;
+  height: 31px;
+  
+}

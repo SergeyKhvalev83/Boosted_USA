@@ -6,7 +6,7 @@ const LayoutComponent = () => {
   return (
     <div>
     <HeaderComponent />
-    <Outlet />
+    {/* <Outlet /> */}
  </div>
   );
 };

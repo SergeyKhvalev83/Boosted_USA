@@ -1,0 +1,11 @@
+#tech-church-brand-main-container {
+  display: flex;
+  justify-content: center;
+  width: 206px;
+  height: 48px;
+}
+
+.tech-church-brand-container {
+  width: 206px;
+  height: 48px;
+}
